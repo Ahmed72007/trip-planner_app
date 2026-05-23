@@ -1,6 +1,4 @@
-# Travel Itinerary Planner App
 
-````md
 # 🌍 Modern Travel Itinerary Planner
 
 A fully functional modern travel itinerary planner mobile app built with Expo, React Native, and TypeScript.

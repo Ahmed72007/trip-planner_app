@@ -52,7 +52,7 @@ AI coding assistance was used during development with Google's Gemini model.
 ### Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Ahmed72007/trip-planner_app
 ````
 
 ### Install dependencies

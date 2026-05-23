@@ -1,6 +1,6 @@
 
 # 🌍 Modern Travel Itinerary Planner
-
+https://youtu.be/zcQKJ18ahjU
 A fully functional modern travel itinerary planner mobile app built with Expo, React Native, and TypeScript.
 
 This app helps users organize trips, manage itineraries, create missions/checklists, track travel details, and explore destinations with integrated map and location search features.
